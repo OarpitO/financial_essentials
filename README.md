@@ -14,4 +14,4 @@
 *Note: Initial and latest MF amount should be **int**. Years can be either **float** or **int**.*
 
 #### Example Output:
-`Compound Annual Growth Rate (CAGR): 9.26%`
+`Compound Annual Growth Rate (CAGR): 8.00%`
